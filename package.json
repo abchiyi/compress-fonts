@@ -1,0 +1,16 @@
+{
+  "name": "compress-fonts",
+  "version": "1.0.0",
+  "description": "压缩字体",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abchiyi/compress-fonts.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abchiyi/compress-fonts/issues"
+  },
+  "homepage": "https://github.com/abchiyi/compress-fonts#readme"
+}
